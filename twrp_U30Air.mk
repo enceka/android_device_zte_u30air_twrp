@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/zte/U30Air/device.mk)
 
 PRODUCT_DEVICE := U30Air
-PRODUCT_NAME := omni_U30Air
+PRODUCT_NAME := twrp_U30Air
 PRODUCT_BRAND := ZTE
 PRODUCT_MODEL := U30 Air
 PRODUCT_MANUFACTURER := zte
