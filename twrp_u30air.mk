@@ -13,10 +13,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from U30Air device
-$(call inherit-product, device/zte/U30Air/device.mk)
+$(call inherit-product, device/zte/u30air/device.mk)
 
 PRODUCT_DEVICE := U30Air
-PRODUCT_NAME := twrp_U30Air
+PRODUCT_NAME := twrp_u30air
 PRODUCT_BRAND := ZTE
 PRODUCT_MODEL := U30 Air
 PRODUCT_MANUFACTURER := zte
