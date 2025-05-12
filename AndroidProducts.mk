@@ -9,6 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_u30air.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_u30air-user \
-    twrp_u30air-userdebug \
     twrp_u30air-eng
