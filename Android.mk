@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),U30Air)
+ifeq ($(TARGET_DEVICE),u30air)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
