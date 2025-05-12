@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=U30Air
+DEVICE=u30air
 VENDOR=zte
 
 # Load extract_utils and do some sanity checks
